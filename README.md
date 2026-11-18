@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-238636?style=for-the-badge" alt="Project Completed">
 </p>
 <p align="center">
-  <a href="https://github.com/josuemutsiirwa">
+  <a href="(https://github.com/mahishahid1704-afk)">
     <img src="https://img.shields.io/badge/GitHub-josuemutsiirwa-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
   <a href="https://www.linkedin.com/in/josue-matembera-37a269407/">
